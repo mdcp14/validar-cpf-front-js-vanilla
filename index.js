@@ -1,4 +1,4 @@
-const URL="https://app-validar-cpf-michael.herokuapp.com/?cpf="
+const URL="https://itau-java-spring-validador-cpf.herokuapp.com/app-validar-cpf-michael/?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
